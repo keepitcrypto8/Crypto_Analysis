@@ -48,7 +48,7 @@ Provides a **clean, consolidated view** of Bitcoin’s market state, allowing lo
 ---
 
 ## 🧱 Project Structure
-
+```
 .
 ├─ data/ # Source data (CSV format)
 │ └─ BTC_EUR Kraken Historical Data.csv
@@ -61,7 +61,7 @@ Provides a **clean, consolidated view** of Bitcoin’s market state, allowing lo
 ├─ README.md # This file :)
 ├─ .gitignore # Ignore data/output files
 └─ requirements.txt # Python dependencies
-
+```
 yaml
 Copy code
 
